@@ -1,0 +1,1 @@
+{"playerSpawn": {"x": 100, "y": 50},"levelStructure": [{"type": "obstacle", "position": {"x": 200, "y": 150}}, {"type": "enemy", "position": {"x": 300, "y": 250}}]}
