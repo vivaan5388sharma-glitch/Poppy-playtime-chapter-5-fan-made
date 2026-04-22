@@ -1,0 +1,24 @@
+{
+  "villain": "Prototype",
+  "description": "The main villain from Poppy Playtime Chapter 5 with advanced AI capabilities.",
+  "boss_mechanics": {
+    "attack_patterns": [
+      "Ranged attacks with energy projectiles",
+      "Melee claw strikes",
+      "Teleportation to avoid damage"
+    ],
+    "special_abilities": [
+      "AI-driven strategies that adapt to player actions",
+      "Healing over time when not engaged",
+      "Summoning minions to distract and damage players"
+    ]
+  },
+  "final_boss_encounter": {
+    "location": "The factory's central control room",
+    "environment_hazards": [
+      "Electrical surges that deal damage",
+      "Moving platforms that can block player paths"
+    ],
+    "strategy": "Players must disable the AI by targeting its core with energy blasts while avoiding projectiles and minions."
+  }
+}
