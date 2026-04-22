@@ -1,0 +1,1 @@
+{\n  "platforms": [\n    {\n      "type": "moving",\n      "height": 5\n    },\n    {\n      "type": "static",\n      "height": 10\n    },\n    {\n      "type": "spikes",\n      "height": 8\n    }\n  ]\n}
