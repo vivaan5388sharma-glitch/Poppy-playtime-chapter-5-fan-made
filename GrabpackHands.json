@@ -1,0 +1,1 @@
+{\n  "grabpack": {\n    "left": {\n      "color": "blue"\n    },\n    "right": [\n      {\n        "color": "red"\n      },\n      {\n        "color": "green"\n      },\n      {\n        "color": "omni"\n      },\n      {\n        "color": "purple"\n      },\n      {\n        "color": "yellow"\n      },\n      {\n        "color": "grey"\n      }\n    ]\n  }\n}
